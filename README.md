@@ -1,1 +1,1 @@
-# Coming Soon: Building an interesting language tool for iOS devices.
+# Coming Soon: An interesting language tool for iOS devices.
